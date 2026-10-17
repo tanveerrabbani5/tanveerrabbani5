@@ -182,31 +182,47 @@ I learn by building real-world projects, troubleshooting failures, and documenti
 
 ---
 
-## 🐳 Automated Docker CI/CD Pipeline *(Upcoming)*
+## 🐳 Automated Application Deployment Platform
 
-Planning to build an automated CI/CD pipeline that streamlines the process of building, testing, and publishing Docker images using GitHub Actions.
+> An automated Cloud & DevOps deployment platform that uses **GitHub Actions, Docker, Terraform, and AWS** to build, scan, publish, and deploy a frontend and backend application.
 
-The project will demonstrate how to automate application delivery, maintain consistent Docker builds, and improve the reliability of software releases through workflow automation.
+### 🏗️ Key Areas
 
-### 🛠️ Key Technologies
+- Terraform-based AWS infrastructure provisioning
+- Dockerized frontend and backend applications
+- GitHub Actions CI/CD automation
+- Automated application testing and Docker image builds
+- Trivy vulnerability scanning
+- Docker image publishing to Docker Hub
+- Secure GitHub Actions → AWS authentication using OIDC
+- AWS Systems Manager (SSM) for EC2 deployment
+- Docker networking for frontend-backend communication
+- Automated CI → CD workflow sequencing
 
-`Docker` · `GitHub Actions` · `Docker Hub` · `Git` · `CI/CD`
+### 🧪 Testing & Results
 
-### 🎯 Key Areas
+- ✅ AWS infrastructure provisioned successfully using Terraform
+- ✅ Frontend and backend Docker images published to Docker Hub
+- ✅ GitHub Actions CI pipeline validated successfully
+- ✅ Trivy security scanning integrated into CI
+- ✅ GitHub Actions authenticated with AWS using OIDC
+- ✅ Application deployed to EC2 using AWS SSM
+- ✅ Frontend and backend containers verified successfully
+- ✅ Frontend-backend communication tested through Docker networking
 
-- Automate Docker image builds using GitHub Actions.
-- Run build validation and testing workflows.
-- Publish Docker images to Docker Hub.
-- Configure workflow triggers for code changes.
-- Manage pipeline failures and troubleshoot build issues.
+### 🧰 Technologies
+
+`AWS` `Terraform` `Docker` `GitHub Actions` `Docker Hub` `OIDC` `SSM` `Trivy` `Nginx` `Linux` `Git` `GitHub`
 
 ### 📌 Status
 
-**🚧 Upcoming — Project under development.**
+**✅ Completed & Tested**
 
 ### 🔗 Project Repository
 
 **[View Project on GitHub](https://github.com/tanveerrabbani5/automated-application-deployment)**
+
+> **Note:** This is a hands-on Cloud & DevOps learning project focused on automated container deployment, CI/CD, security scanning, and secure AWS integration. AWS resources may be destroyed after testing to avoid ongoing charges.
 
 ---
 
