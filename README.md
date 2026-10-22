@@ -31,7 +31,7 @@ I learn by **building real systems**, breaking them, understanding the failure, 
 
 ## 🚀 Projects
 
-| Project | Description | Technologies |
+| Project-Repo | Description | Technologies |
 |---|---|---|
 | [Secure AWS 3-Tier Infrastructure](https://github.com/tanveerrabbani5/aws-terraform-3tier-infrastructure) | Production-style 3-tier AWS infrastructure built with reusable Terraform modules. | AWS · Terraform · VPC · EC2 · ALB · RDS |
 | [Automated Application Deployment](https://github.com/tanveerrabbani5/automated-application-deployment) | Automated container deployment with CI/CD, security scanning, and secure AWS integration. | AWS · Terraform · Docker · GitHub Actions · Trivy |
