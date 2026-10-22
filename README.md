@@ -2,12 +2,10 @@
 
 # 👋 Hi, I'm Tanveer Rabbani
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9900&center=true&vCenter=true&width=850&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Docker+%7C+Kubernetes;Building+Real-World+Cloud+Infrastructure;Infrastructure+as+Code+%7C+CI%2FCD+%7C+DevSecOps;Learn+%E2%80%A2+Build+%E2%80%A2+Troubleshoot+%E2%80%A2+Improve" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0DB513&center=true&vCenter=true&width=850&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Docker+%7C+Kubernetes;Building+Real-World+Cloud+Infrastructure;Infrastructure+as+Code+%7C+CI%2FCD+%7C+DevSecOps;Learn+%E2%80%A2+Build+%E2%80%A2+Troubleshoot+%E2%80%A2+Improve" alt="Typing SVG" />
 
 <p>
-  <a href="https://github.com/tanveerrabbani5">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  
   <a href="https://www.linkedin.com/in/tanveer-rabbani-a-870729362/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
