@@ -38,6 +38,18 @@ I learn by **building real systems**, breaking them, understanding the failure, 
 
 ---
 
+## 📚 Assignments
+
+| Repository | Description | Technologies |
+|---|---|---|
+| [AWS Cloud Infrastructure Engineering — Assignments](https://github.com/tanveerrabbani5/AWS_Cloud_Infrastructure_Engineering-Assignments) |I personally research and carefully verify each assignment question before selecting it. My assignments are designed around real-world, practical, hands-on AWS scenarios, rather than just theoretical questions, to gain industry-relevant experience. | Covers most of the major AWS services commonly used in Cloud Computing and DevOps industry |
+
+**🚀 Focus:** Practical Implementation · Production-Style Architecture · Cloud Security · Infrastructure Engineering · Real-World AWS Scenarios
+
+**More assignments and hands-on implementations are currently in progress.**
+
+---
+
 ## 🧪 Mini Projects
 
 | Project | Description |
